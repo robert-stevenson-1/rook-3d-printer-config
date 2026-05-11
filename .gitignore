@@ -1,0 +1,11 @@
+# Klipper auto-generated backups (timestamped files)
+printer-20*.cfg
+
+# General backup files and folders
+*.bak
+bak/
+*.zip
+
+# System / Editor files
+.DS_Store
+*~
