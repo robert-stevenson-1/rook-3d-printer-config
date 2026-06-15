@@ -9,3 +9,7 @@ bak/
 # System / Editor files
 .DS_Store
 *~
+
+saved_variables.cfg
+adxl_results/belts/*.csv
+adxl_results/vibrations/*.tar.gz
